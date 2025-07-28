@@ -1,0 +1,9 @@
+* ed61421 794fcab G: add a new movie to titles.md
+*   794fcab f8c7ebb 1473968 F: Merge branch 'add_classics'
+|\  
+| * 1473968 e5987ae D: add classics.csv
+* | f8c7ebb e5987ae E: add text to contents.md
+|/  
+* e5987ae 92509a0 C: add quotes
+* 92509a0 58a69d4 B: add titles.md
+* 58a69d4 A: add contents.md
